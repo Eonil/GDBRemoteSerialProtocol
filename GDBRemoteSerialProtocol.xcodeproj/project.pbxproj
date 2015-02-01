@@ -147,7 +147,7 @@
 		459E5D851A6CFB8100D4F391 /* RunLengthEncoding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunLengthEncoding.swift; sourceTree = "<group>"; };
 		459E5D871A6CFB8100D4F391 /* TypeAliases.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeAliases.swift; sourceTree = "<group>"; };
 		459E5D891A6CFB8100D4F391 /* UnitTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitTest.swift; sourceTree = "<group>"; };
-		45EE37591A6D04B800BD032A /* NOTE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = NOTE.md; sourceTree = "<group>"; };
+		45EE37591A6D04B800BD032A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		45EE375F1A6D06A400BD032A /* Workbench1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Workbench1; sourceTree = BUILT_PRODUCTS_DIR; };
 		45EE37611A6D06A400BD032A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		45F014ED1A6DC84C00B06889 /* SampleProgram1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SampleProgram1; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -235,7 +235,7 @@
 		459E5D471A6CFB2000D4F391 = {
 			isa = PBXGroup;
 			children = (
-				45EE37591A6D04B800BD032A /* NOTE.md */,
+				45EE37591A6D04B800BD032A /* README.md */,
 				459E5D531A6CFB2000D4F391 /* GDBRemoteSerialProtocol */,
 				459E5D601A6CFB2000D4F391 /* GDBRemoteSerialProtocolTests */,
 				459E5D7B1A6CFB6E00D4F391 /* UnitTest */,
@@ -974,6 +974,7 @@
 				45F014F21A6DC84C00B06889 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
