@@ -9,10 +9,10 @@ THIS PROJECT HAS BEEN ABANDONED. DO NOT USE THIS FOR ANYTHING.
 POSTED ONLINE FOR ARCHIVE AND REFERENCE PURPOSE.
 
 At first, I thought communicating over stable protocol would be
-better but I was wrong. GDB RSP is lacks features, and seems
+better but I was wrong. GDB RSP lacks features, and seems
 being treated as a legacy stuff. I changed to link to LLDB 
 directly. Visit [Eonil/LLDBWrapper](https://github.com/Eonil/LLDBWrapper)
-to see my the LLDB API wrapper.
+to see my LLDB API wrapper.
 
 
 
